@@ -8,7 +8,7 @@ The environment consists of a machine with Metasploit installed (attacker) and a
 
 Docker was used to create the environment. For the attacker, the image used was [metasploitframework/metasploit-framework](https://hub.docker.com/r/metasploitframework/metasploit-framework). For the victim, the image used was [tleemcjr/metasploitable2](https://hub.docker.com/r/tleemcjr/metasploitable2).
 
-# Pre-requisites
+# Prerequisites
 * [Docker Engine](https://docs.docker.com/get-docker/)
 
 ## Setting up environment
@@ -61,7 +61,7 @@ Choose a service to exploit and have fun!
 
 In case you missed it, [this guide](https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide) has some examples of exploits to use.
 
-In case you understand Portuguese, there is a [report](relatorio.pdf) with a didactic explanation of a simple attack using this environment.
+Also, if you understand Portuguese, there is a [report](relatorio.pdf) with a didactic explanation of a simple attack using this environment.
 
 ## Tech stack
 * Docker
