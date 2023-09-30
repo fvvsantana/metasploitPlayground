@@ -13,7 +13,7 @@ Docker was used to create the environment. For the attacker, the image used was 
 
 ## Setting up environment
 
-The environment will basically be set up opening the machine of the attacker in a terminal and the machine of the victim in another terminal.
+The environment will basically be set up by opening the machine of the attacker in a terminal and the machine of the victim in another terminal.
 
 Starting at the root of the project, enter the attacker's folder:
 ```
